@@ -1,5 +1,14 @@
-![live-usage](https://ik.imagekit.io/anwarachilles/devneet-rune.png)
+<p align="center">
+  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/devneet/rune" alt="Total Downloads"></a>
+  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/devneet/rune" alt="Latest Stable Version"></a>
+  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/devneet/rune" alt="License"></a
+</p>
 
+<p align="center">
+  <a href="https://github.com/devneet-id/rune target="_blank">
+    <img src="https://raw.githubusercontent.com/devneet-id/rune-art/refs/heads/main/rune-card.png" width="300" alt="Logo">
+  </a>
+</p>
 
 Within Rune's architecture, **Ether** defines truth, **Essence** holds flow, and **Entity** performs behavior - each awakened only when invoked. Every element is crafted to be composable, lazy-loaded, and purpose-driven, making systems naturally scalable and precise. 
 
